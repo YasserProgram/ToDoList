@@ -13,7 +13,7 @@ This is a simple to-do list application developed in Python using the Tkinter li
 - **Save Tasks:** Tasks are automatically saved to a file (`tasks.txt`) so that users can load them in future sessions.
 
 ## Requirements
-
+Make sure you have a tasks.txt file in the same directory for tasks to be saved properly
 To run the application, make sure you have Python installed and the required libraries listed in the `requirements.txt` file.
 
 ## Usage
