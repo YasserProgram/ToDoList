@@ -84,7 +84,6 @@ eliminar_todas_btn = tk.Button(ventana, text="Eliminar todas las tareas", comman
 marcar_todas_btn.pack(side=tk.TOP, padx=10, pady=5, anchor='center')
 eliminar_todas_btn.pack(side=tk.TOP, padx=10, pady=5, anchor='center')
 
-
 ventana.mainloop()
 
 
