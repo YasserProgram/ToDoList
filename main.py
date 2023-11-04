@@ -1,4 +1,4 @@
-import tkinter as tk 
+import tkinter as tk      
 
 def agregar_tarea():
     tarea = tarea_entry.get()
